@@ -1,12 +1,12 @@
 // Inquirer (node package manager) import
-const inquirer = require("inquirer");
-
+// const inquirer = require("inquirer");
+import inquirer from "inquirer"
 // File system module (node package manager) import
-const fs = require("fs");
+import fs from "fs"
 
 // Importing classes from ./lib/shapes directory
-const { Triangle, Square, Circle } = require("./Module-10/shapes");
-
+import { Triangle, Square, Circle } from "./Module-10/shapes.js";
+// import { Triangle, Square, Circle } from "./Module-10/shapes.js";
 // Function writes the SVG file using user answers from inquirer prompts
 function writeToFile(fileName, answers) {
   // File starts as an empty string
