@@ -39,3 +39,16 @@ module 10 challenge
 
 * THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
+## Resources
+
+* W3schools.org
+
+* Code Academy
+
+* YouTube videos for coding help
+
+* GitHub 
+
+* Stackoverflow to answer questions on coding
+
+* two hours of tutor session
